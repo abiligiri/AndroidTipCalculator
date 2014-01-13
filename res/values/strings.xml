@@ -3,6 +3,8 @@
 
     <string name="app_name">TipCalculator</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-
+    <string name="button_ten_percent">10%</string>
+    <string name="button_fifteen_percent">15%</string>
+    <string name="button_twenty_percent">20%</string>
+    <string name="tip_message">Tip is: %1$s</string>
 </resources>
